@@ -13,3 +13,6 @@ This project introduces arrays in JavaScript to store lists of items.
 - index.html – Webpage structure
 - script.js – JavaScript logic
 - README.md – Project explanation
+
+## View the live website at this link:
+ https://noorfatimab.github.io/JavaScript-Basics-Arrays-/ 
